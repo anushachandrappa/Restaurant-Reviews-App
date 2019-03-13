@@ -6,7 +6,6 @@ This project is part of the __Frontend Web Developer Nanodegre__. This project's
 
 * [Instructions](#instructions)
 * [Installation](#installation)
-* [Live Version](#live)
 * [Functionality](#functionality)
 * [Requirements](#requirements)
 * [Dependencies](#dependencies)
@@ -21,10 +20,6 @@ A starter code containing the app main code has been provided. The requirement f
 You can clone this repository or download it as a .zip file.
 Once downloaded, enter into the directory with the terminal and check your Python version using `python -V`. If you don't have Python installed, navigate to Python's [website](https://www.python.org/) to download and install the software.
 For Python `2.x` use the command `python -m SimpleHTTPServer 8000` to serve the page in a local host. For Python version `3.x` use the command `python3 -m http.server 8000` or `py -m http.server 8000`. In all the case Python will use the port `8000`. Then go to `http://localhost:8000`with your favourite browser to view the website.
-
-## Live Version
-
-You can find a live version of the project [here](https://anushachandrappa.github.io/Restaurant-Reviews-App/)
 
 ## Requirements
 
