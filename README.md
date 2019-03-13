@@ -1,4 +1,4 @@
-# Restaurant Review App - Stage 1, a Udacity's project
+# Restaurant Review App
 
 This project is part of the __Frontend Web Developer Nanodegre__. This project's purpose is to gradually convert a static webpage to a mobile-ready web application.
 
